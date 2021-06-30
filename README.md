@@ -4,7 +4,8 @@
 - University: Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT), Gandhinagar
 - Guide: Prof. Amit Mankodi
 - This repository contains a System Programming Project which aims to provide Media Security in Linux Operating System through extensive use of Shell Scripting and C Programming. 
-  I developed it as an applied learning project for my subject 'System Programming' in Semester-2, MSc IT. 
+  I developed it as an applied learning project for my subject 'System Programming' in Semester-2, MSc IT.
+- Individual Project
 
 This project extensively uses the concept of shell scripting to provide multiple functionalities of media security simultaneously to the user. 
 It enables the system to efficiently hide and handle the background complexities involved in the equivalent GUI Operations through the terminal itself. 
